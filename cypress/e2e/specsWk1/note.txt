@@ -1,0 +1,6 @@
+//two kinds of re
+//cypress custom commands
+
+//es6 functions
+
+//good practice to get the call back function like ythen
